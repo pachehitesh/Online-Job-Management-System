@@ -1,23 +1,18 @@
 ## Django Job Portal
 
-#### An open source online job portal.
+Django Job Portal is an open-source online platform designed to streamline the job search process for both job seekers and employers. Built with Django and utilizing SQLite for database management, this project offers a user-friendly interface for posting and applying to job listings.
 
-Live: [Demo](https://django-portal.herokuapp.com/)
+### Live Demo
+Explore the live demo [here](#).
 
-Used Tech Stack
-
-1. Django
-2. Sqlite
+### Tech Stack
+- **Django**: Powerful web framework for building web applications in Python.
+- **SQLite**: Lightweight, serverless database engine used for data storage.
 
 ### Screenshots
+- **Home Page**: Welcome page showcasing featured job listings and navigation options.
+- **Add New Position (Employer)**: Interface for employers to post new job positions.
+- **Job Details**: Detailed view of job listings, including job description, requirements, and application instructions.
 
-## Home page
-<img src="screenshots/one.png" height="800">
-
-## Add new position as employer
-<img src="screenshots/two.png" height="800">
-
-## Job details
-<img src="screenshots/three.png" height="800">
-
-Show your support by 🌟 the project!!
+### Show Your Support
+If you find this project useful, show your support by starring ⭐ the repository! Your contribution helps to enhance and maintain this open-source initiative.
